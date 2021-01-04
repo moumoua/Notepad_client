@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FACC2E</color>
+    <color name="colorPrimaryDark">#FACC2E</color>
+    <color name="colorAccent">#FACC2E</color>
+
+    <color name="main">#FACC2E</color>
+    <color name="main2">#F5DA81</color>
+    <color name="write">#ffffff</color>
+    <color name="text1">#333333</color>
+    <color name="text2">#666666</color>
+    <color name="text3">#999999</color>
+    <color name="text_d">#dddddd</color>
+    <color name="bg">#F6F5FA</color>
+    <color name="text_bf">#bfbfbf</color>
+    <color name="red">#FF0000</color>
+</resources>
