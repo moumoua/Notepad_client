@@ -48,6 +48,7 @@ public class InAndExActivity extends BaseActivity {
     ImageView imgGou;
     @BindView(R.id.edt_jine)
     ClearEditText edtJine;
+
     private TimePickerView pvTime;
 
     @Override
